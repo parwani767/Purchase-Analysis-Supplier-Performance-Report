@@ -1,4 +1,4 @@
-# Purchase-Analysis-Supplier-Performance-Report
+# Purchase Tracker
 
 This project involved analyzing purchase data from April 2022 onward to help businesses track supplier performance, product category trends, and overall procurement costs. 
 Using Excel as a data source and Power BI for interactive dashboards, I developed a data-driven solution that enables decision-makers to optimize purchasing strategies.
